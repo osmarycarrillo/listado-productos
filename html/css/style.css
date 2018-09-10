@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+header{
+    font-size: 20px;
+    color: teal;
+    text-align: center;
+}
+header img{
+    height: 200px;
+}
+aside{
+    font-style: italic;
+    font-size: 16px;
+    display: inline-block;
+    float: left;
+}
+
+aside span{
+    display: block;
+}
+section{
+    display: inline-block;
+    margin: auto;
+    height: 100%;
+    width: 80%;
+    text-align: center;
+    
+}
+
+.img-product{
+    text-align: center;
+    font-style: italic;
+    display: inline-block;
+    background-color: grey;
+    margin: 3px;
+    
+}
